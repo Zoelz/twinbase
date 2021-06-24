@@ -4,3 +4,7 @@ name: Crane
 description: Write description here.
 baseurl: https://Zoelz.github.io/twinbase
 edit: https://github.com/Zoelz/twinbase/edit/main/docs/a346d686-fa08-4eab-86b7-1e5367d46e98/index.yaml
+location:
+  x: None
+  y: None
+ip: http://localhost:7000
