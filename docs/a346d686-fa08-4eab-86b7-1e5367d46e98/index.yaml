@@ -1,6 +1,6 @@
 dt-id: https://dtid.org/a346d686-fa08-4eab-86b7-1e5367d46e98
 hosting-iri: https://Zoelz.github.io/twinbase/a346d686-fa08-4eab-86b7-1e5367d46e98
-name: Crane
+name: Ilmatar Crane
 description: Write description here.
 baseurl: https://Zoelz.github.io/twinbase
 edit: https://github.com/Zoelz/twinbase/edit/main/docs/a346d686-fa08-4eab-86b7-1e5367d46e98/index.yaml
@@ -8,3 +8,12 @@ location:
   x: None
   y: None
 ip: http://localhost:7000
+functions: 
+  - /fromTo/<tdid1>/<tdid2>
+  - /driveTo/<tdid1>
+  - /carrying_object
+  - /giveTo/<twin>
+  - /takeFrom/<twin>
+type: Transport 3D
+parent:
+  - d1816959-8a88-40b1-9bfd-8a670b629083
