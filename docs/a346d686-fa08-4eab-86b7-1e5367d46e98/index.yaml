@@ -1,7 +1,7 @@
 dt-id: https://dtid.org/a346d686-fa08-4eab-86b7-1e5367d46e98
 hosting-iri: https://Zoelz.github.io/twinbase/a346d686-fa08-4eab-86b7-1e5367d46e98
 name: Ilmatar Crane
-description: Write description here.
+description: Overhead crane that canbe used to move objects in 3 dimensions.
 baseurl: https://Zoelz.github.io/twinbase
 edit: https://github.com/Zoelz/twinbase/edit/main/docs/a346d686-fa08-4eab-86b7-1e5367d46e98/index.yaml
 location:
