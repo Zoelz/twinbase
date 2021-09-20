@@ -1,0 +1,9 @@
+dt-id: autoassign|https://dtid.org
+hosting-iri: autoassign
+name: Warehouse 1
+description: Write description here.
+location:
+  x: 5.0
+  y: -5.0
+type: Warehouse
+functions: [/check_item]
