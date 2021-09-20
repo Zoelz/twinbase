@@ -1,0 +1,8 @@
+dt-id: autoassign|https://dtid.org
+hosting-iri: autoassign
+name: Loading area 1
+description: Write description here.
+location:
+  x: 5.0
+  y: 5.0
+type: Loading area
