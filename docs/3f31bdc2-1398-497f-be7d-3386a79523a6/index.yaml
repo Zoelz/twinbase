@@ -1,0 +1,10 @@
+dt-id: autoassign|https://dtid.org
+hosting-iri: autoassign
+name: Grinding machine 1
+description: Write description here.
+location:
+  x: -8.0
+  y: -8.0
+ip: http://localhost:9000
+type: Grinding machine
+functions: [/grinding, /start_grinding, /check_item]
