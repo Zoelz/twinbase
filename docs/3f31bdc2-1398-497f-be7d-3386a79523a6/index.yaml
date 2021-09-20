@@ -1,5 +1,5 @@
-dt-id: autoassign|https://dtid.org
-hosting-iri: autoassign
+dt-id: https://dtid.org/3f31bdc2-1398-497f-be7d-3386a79523a6
+hosting-iri: https://Zoelz.github.io/twinbase/3f31bdc2-1398-497f-be7d-3386a79523a6
 name: Grinding machine 1
 description: Write description here.
 location:
@@ -7,4 +7,9 @@ location:
   y: -8.0
 ip: http://localhost:9000
 type: Grinding machine
-functions: [/grinding, /start_grinding, /check_item]
+functions:
+- /grinding
+- /start_grinding
+- /check_item
+baseurl: https://Zoelz.github.io/twinbase
+edit: https://github.com/Zoelz/twinbase/edit/main/docs/3f31bdc2-1398-497f-be7d-3386a79523a6/index.yaml
