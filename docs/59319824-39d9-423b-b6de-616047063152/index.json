@@ -1,0 +1,16 @@
+{
+    "dt-id": "https://dtid.org/59319824-39d9-423b-b6de-616047063152",
+    "hosting-iri": "https://Zoelz.github.io/twinbase/59319824-39d9-423b-b6de-616047063152",
+    "name": "Warehouse 1",
+    "description": "Write description here.",
+    "location": {
+        "x": 5.0,
+        "y": -5.0
+    },
+    "type": "Warehouse",
+    "functions": [
+        "/check_item"
+    ],
+    "baseurl": "https://Zoelz.github.io/twinbase",
+    "edit": "https://github.com/Zoelz/twinbase/edit/main/docs/59319824-39d9-423b-b6de-616047063152/index.yaml"
+}
