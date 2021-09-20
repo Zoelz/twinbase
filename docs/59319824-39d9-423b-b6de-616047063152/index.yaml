@@ -9,6 +9,6 @@ type: Warehouse
 functions:
 - /check_item
 parent:
-  - d1816959-8a88-40b1-9bfd-8a670b629083
+- d1816959-8a88-40b1-9bfd-8a670b629083
 baseurl: https://Zoelz.github.io/twinbase
 edit: https://github.com/Zoelz/twinbase/edit/main/docs/59319824-39d9-423b-b6de-616047063152/index.yaml

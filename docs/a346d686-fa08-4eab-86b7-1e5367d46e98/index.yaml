@@ -8,12 +8,12 @@ location:
   x: None
   y: None
 ip: http://localhost:7000
-functions: 
-  - /fromTo/<tdid1>/<tdid2>
-  - /driveTo/<tdid1>
-  - /carrying_object
-  - /giveTo/<twin>
-  - /takeFrom/<twin>
+functions:
+- /fromTo/<tdid1>/<tdid2>
+- /driveTo/<tdid1>
+- /carrying_object
+- /giveTo/<twin>
+- /takeFrom/<twin>
 type: Transport 3D
 parent:
-  - d1816959-8a88-40b1-9bfd-8a670b629083
+- d1816959-8a88-40b1-9bfd-8a670b629083
