@@ -13,6 +13,9 @@
         "/driveTo/<tdid1>",
         "/check_item"
     ],
+    "parent": [
+        "d1816959-8a88-40b1-9bfd-8a670b629083"
+    ],
     "baseurl": "https://Zoelz.github.io/twinbase",
     "edit": "https://github.com/Zoelz/twinbase/edit/main/docs/dde9d093-05bd-4512-8a23-1241e8809612/index.yaml"
 }

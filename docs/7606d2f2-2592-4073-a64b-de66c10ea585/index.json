@@ -8,6 +8,9 @@
         "y": 5.0
     },
     "type": "Loading area",
+    "parent": [
+        "d1816959-8a88-40b1-9bfd-8a670b629083"
+    ],
     "baseurl": "https://Zoelz.github.io/twinbase",
     "edit": "https://github.com/Zoelz/twinbase/edit/main/docs/7606d2f2-2592-4073-a64b-de66c10ea585/index.yaml"
 }
