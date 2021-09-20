@@ -1,0 +1,18 @@
+{
+    "dt-id": "https://dtid.org/dde9d093-05bd-4512-8a23-1241e8809612",
+    "hosting-iri": "https://Zoelz.github.io/twinbase/dde9d093-05bd-4512-8a23-1241e8809612",
+    "name": "Truck 1",
+    "description": "Write description here.",
+    "location": {
+        "x": "None",
+        "y": "None"
+    },
+    "ip": "http://localhost:7002",
+    "type": "Transport 1D",
+    "functions": [
+        "/driveTo/<tdid1>",
+        "/check_item"
+    ],
+    "baseurl": "https://Zoelz.github.io/twinbase",
+    "edit": "https://github.com/Zoelz/twinbase/edit/main/docs/dde9d093-05bd-4512-8a23-1241e8809612/index.yaml"
+}
