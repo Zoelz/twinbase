@@ -8,8 +8,10 @@ location:
 ip: http://localhost:9000
 type: Grinding machine
 functions:
-- /grinding
-- /start_grinding
-- /check_item
+  - /grinding
+  - /start_grinding
+  - /check_item
+parent:
+  - d1816959-8a88-40b1-9bfd-8a670b629083
 baseurl: https://Zoelz.github.io/twinbase
 edit: https://github.com/Zoelz/twinbase/edit/main/docs/3f31bdc2-1398-497f-be7d-3386a79523a6/index.yaml
