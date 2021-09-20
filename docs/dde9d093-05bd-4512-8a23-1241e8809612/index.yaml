@@ -1,0 +1,10 @@
+dt-id: autoassign|https://dtid.org
+hosting-iri: autoassign
+name: Truck 1
+description: Write description here.
+location:
+  x: None
+  y: None
+ip: http://localhost:7002
+type: Transport 1D
+functions: [/driveTo/<tdid1>, /check_item]
