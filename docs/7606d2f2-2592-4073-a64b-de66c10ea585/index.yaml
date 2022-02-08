@@ -5,6 +5,7 @@ description: Write description here.
 location:
   x: 5.0
   y: 5.0
+ip: http://localhost:9050
 type: Loading area
 parent:
 - d1816959-8a88-40b1-9bfd-8a670b629083
