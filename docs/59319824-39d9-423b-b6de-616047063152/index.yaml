@@ -6,6 +6,7 @@ location:
   x: 5.0
   y: -5.0
 type: Warehouse
+ip: http://localhost:9050
 functions:
 - /check_item
 parent:
